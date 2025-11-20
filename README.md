@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🎓 About Me | 소개
+
+- 🏫 Major: Media, Film & Advertising (Hansei University)  
+  (미디어, 영화, 광고 전공 — 한세대학교)
+
+- 💡 Double majoring in: (Considering) Computer Science  
+  (컴퓨터공학 복수전공도 고민 중)
